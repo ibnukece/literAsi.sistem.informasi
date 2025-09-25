@@ -1,0 +1,632 @@
+[
+    {
+        "Kategori": "Sensor IoT & Kamera Pengawas",
+        "Data": [
+            {
+                "No": 1,
+                "Deskripsi": "Rekaman CCTV gerbang utama"
+            },
+            {
+                "No": 2,
+                "Deskripsi": "Rekaman CCTV gerbang barat"
+            },
+            {
+                "No": 3,
+                "Deskripsi": "Rekaman CCTV jalan pusat desa"
+            },
+            {
+                "No": 4,
+                "Deskripsi": "Rekaman CCTV pasar tradisional"
+            },
+            {
+                "No": 5,
+                "Deskripsi": "Rekaman CCTV rumah sakit ninja"
+            },
+            {
+                "No": 6,
+                "Deskripsi": "Rekaman CCTV akademi ninja"
+            },
+            {
+                "No": 7,
+                "Deskripsi": "Rekaman kamera drone perimeter hutan utara"
+            },
+            {
+                "No": 8,
+                "Deskripsi": "Rekaman kamera drone perimeter hutan selatan"
+            },
+            {
+                "No": 9,
+                "Deskripsi": "Rekaman kamera drone di sungai desa"
+            },
+            {
+                "No": 10,
+                "Deskripsi": "Sensor gerak di gerbang rahasia timur"
+            },
+            {
+                "No": 11,
+                "Deskripsi": "Sensor gerak di gua perbatasan"
+            },
+            {
+                "No": 12,
+                "Deskripsi": "Sensor gerak di menara pengawas"
+            },
+            {
+                "No": 13,
+                "Deskripsi": "Sensor suhu hutan timur"
+            },
+            {
+                "No": 14,
+                "Deskripsi": "Sensor suhu hutan barat"
+            },
+            {
+                "No": 15,
+                "Deskripsi": "Sensor suhu di gudang logistik"
+            },
+            {
+                "No": 16,
+                "Deskripsi": "Sensor suara ledakan di area latihan"
+            },
+            {
+                "No": 17,
+                "Deskripsi": "Sensor suara pertempuran di dekat sungai"
+            },
+            {
+                "No": 18,
+                "Deskripsi": "Sensor suara teriakan massa di pusat kota"
+            },
+            {
+                "No": 19,
+                "Deskripsi": "Sensor suara aneh di perbatasan utara"
+            },
+            {
+                "No": 20,
+                "Deskripsi": "Drone patrol jalur selatan desa"
+            },
+            {
+                "No": 21,
+                "Deskripsi": "Drone patrol jalur barat desa"
+            },
+            {
+                "No": 22,
+                "Deskripsi": "Drone patrol jalur timur desa"
+            },
+            {
+                "No": 23,
+                "Deskripsi": "Drone patrol jalur pegunungan"
+            },
+            {
+                "No": 24,
+                "Deskripsi": "Alarm sensor intrusi gerbang rahasia"
+            },
+            {
+                "No": 25,
+                "Deskripsi": "Data monitoring IoT real-time pusat kendali"
+            }
+        ]
+    },
+    {
+        "Kategori": "Laporan Misi Ninja",
+        "Data": [
+            {
+                "No": 1,
+                "Deskripsi": "Laporan misi tim 7 – pengawalan dagang"
+            },
+            {
+                "No": 2,
+                "Deskripsi": "Laporan misi tim 10 – penyelidikan musuh"
+            },
+            {
+                "No": 3,
+                "Deskripsi": "Laporan misi tim 8 – pencarian orang hilang"
+            },
+            {
+                "No": 4,
+                "Deskripsi": "Laporan misi tim 5 – penyelidikan hutan terlarang"
+            },
+            {
+                "No": 5,
+                "Deskripsi": "Laporan misi tim 12 – evakuasi warga desa"
+            },
+            {
+                "No": 6,
+                "Deskripsi": "Catatan interaksi diplomasi ke Sunagakure"
+            },
+            {
+                "No": 7,
+                "Deskripsi": "Catatan misi ke Kirigakure"
+            },
+            {
+                "No": 8,
+                "Deskripsi": "Laporan pengintaian perbatasan timur"
+            },
+            {
+                "No": 9,
+                "Deskripsi": "Laporan pengintaian perbatasan barat"
+            },
+            {
+                "No": 10,
+                "Deskripsi": "Laporan pertempuran melawan bandit"
+            },
+            {
+                "No": 11,
+                "Deskripsi": "Laporan pertempuran melawan organisasi kriminal"
+            },
+            {
+                "No": 12,
+                "Deskripsi": "Catatan intelijen dari misi rahasia Anbu"
+            },
+            {
+                "No": 13,
+                "Deskripsi": "Data korban luka dari misi luar kota"
+            },
+            {
+                "No": 14,
+                "Deskripsi": "Data korban gugur dari misi"
+            },
+            {
+                "No": 15,
+                "Deskripsi": "Laporan keberhasilan misi pengawalan VIP"
+            },
+            {
+                "No": 16,
+                "Deskripsi": "Laporan kegagalan misi pengintaian"
+            },
+            {
+                "No": 17,
+                "Deskripsi": "Catatan ancaman dari kelompok Akatsuki"
+            },
+            {
+                "No": 18,
+                "Deskripsi": "Catatan ancaman dari Orochimaru"
+            },
+            {
+                "No": 19,
+                "Deskripsi": "Catatan ancaman dari desa musuh"
+            },
+            {
+                "No": 20,
+                "Deskripsi": "Evaluasi misi tim 3"
+            },
+            {
+                "No": 21,
+                "Deskripsi": "Evaluasi misi tim 6"
+            },
+            {
+                "No": 22,
+                "Deskripsi": "Evaluasi misi tim 9"
+            },
+            {
+                "No": 23,
+                "Deskripsi": "Evaluasi misi tim khusus Anbu"
+            },
+            {
+                "No": 24,
+                "Deskripsi": "Catatan penggunaan jutsu khusus di lapangan"
+            },
+            {
+                "No": 25,
+                "Deskripsi": "Rekomendasi strategi dari ninja senior"
+            }
+        ]
+    },
+    {
+        "Kategori": "Data Administratif Desa",
+        "Data": [
+            {
+                "No": 1,
+                "Deskripsi": "Daftar kependudukan desa (nama, alamat)"
+            },
+            {
+                "No": 2,
+                "Deskripsi": "Data kekuatan khusus tiap ninja"
+            },
+            {
+                "No": 3,
+                "Deskripsi": "Data afiliasi keluarga (klan Uchiha, Hyuga, dll.)"
+            },
+            {
+                "No": 4,
+                "Deskripsi": "Data tingkat pendidikan ninja"
+            },
+            {
+                "No": 5,
+                "Deskripsi": "Data izin keluar-masuk ninja harian"
+            },
+            {
+                "No": 6,
+                "Deskripsi": "Data izin keluar-masuk warga sipil"
+            },
+            {
+                "No": 7,
+                "Deskripsi": "Catatan kelahiran penduduk"
+            },
+            {
+                "No": 8,
+                "Deskripsi": "Catatan kematian penduduk"
+            },
+            {
+                "No": 9,
+                "Deskripsi": "Catatan migrasi penduduk"
+            },
+            {
+                "No": 10,
+                "Deskripsi": "Data warga baru"
+            },
+            {
+                "No": 11,
+                "Deskripsi": "Data warga pindah desa"
+            },
+            {
+                "No": 12,
+                "Deskripsi": "Data warga hilang"
+            },
+            {
+                "No": 13,
+                "Deskripsi": "Catatan kesehatan warga"
+            },
+            {
+                "No": 14,
+                "Deskripsi": "Catatan vaksinasi warga"
+            },
+            {
+                "No": 15,
+                "Deskripsi": "Catatan kepemilikan rumah"
+            },
+            {
+                "No": 16,
+                "Deskripsi": "Catatan kepemilikan tanah"
+            },
+            {
+                "No": 17,
+                "Deskripsi": "Daftar izin usaha pasar"
+            },
+            {
+                "No": 18,
+                "Deskripsi": "Daftar izin transportasi"
+            },
+            {
+                "No": 19,
+                "Deskripsi": "Catatan pajak desa"
+            },
+            {
+                "No": 20,
+                "Deskripsi": "Data ninja aktif bertugas"
+            },
+            {
+                "No": 21,
+                "Deskripsi": "Data ninja pensiun"
+            },
+            {
+                "No": 22,
+                "Deskripsi": "Data ninja akademi"
+            },
+            {
+                "No": 23,
+                "Deskripsi": "Data kunjungan dari desa lain"
+            },
+            {
+                "No": 24,
+                "Deskripsi": "Catatan daftar pemilih desa"
+            },
+            {
+                "No": 25,
+                "Deskripsi": "Data kepemilikan senjata desa"
+            }
+        ]
+    },
+    {
+        "Kategori": "Media Komunikasi Warga",
+        "Data": [
+            {
+                "No": 1,
+                "Deskripsi": "Laporan warga tentang pencurian"
+            },
+            {
+                "No": 2,
+                "Deskripsi": "Laporan warga tentang kebakaran rumah"
+            },
+            {
+                "No": 3,
+                "Deskripsi": "Laporan warga tentang keributan pasar"
+            },
+            {
+                "No": 4,
+                "Deskripsi": "Laporan warga tentang kehilangan barang"
+            },
+            {
+                "No": 5,
+                "Deskripsi": "Laporan warga tentang pergerakan mencurigakan"
+            },
+            {
+                "No": 6,
+                "Deskripsi": "Foto laporan warga tentang ledakan kecil"
+            },
+            {
+                "No": 7,
+                "Deskripsi": "Foto laporan warga tentang penyusup"
+            },
+            {
+                "No": 8,
+                "Deskripsi": "Laporan warga panic button kasus kebakaran"
+            },
+            {
+                "No": 9,
+                "Deskripsi": "Laporan warga panic button kasus serangan bandit"
+            },
+            {
+                "No": 10,
+                "Deskripsi": "Laporan warga panic button kasus orang hilang"
+            },
+            {
+                "No": 11,
+                "Deskripsi": "Hotline desa panggilan darurat medis"
+            },
+            {
+                "No": 12,
+                "Deskripsi": "Hotline desa panggilan darurat keamanan"
+            },
+            {
+                "No": 13,
+                "Deskripsi": "Hotline desa panggilan darurat evakuasi"
+            },
+            {
+                "No": 14,
+                "Deskripsi": "Data laporan teks GPS warga di hutan"
+            },
+            {
+                "No": 15,
+                "Deskripsi": "Data laporan teks GPS warga di sungai"
+            },
+            {
+                "No": 16,
+                "Deskripsi": "Laporan hoax warga (perlu verifikasi)"
+            },
+            {
+                "No": 17,
+                "Deskripsi": "Laporan salah persepsi (orang biasa dikira musuh)"
+            },
+            {
+                "No": 18,
+                "Deskripsi": "Laporan kerusakan jalan akibat hujan"
+            },
+            {
+                "No": 19,
+                "Deskripsi": "Laporan warga soal banjir kecil"
+            },
+            {
+                "No": 20,
+                "Deskripsi": "Laporan warga soal longsor gunung"
+            },
+            {
+                "No": 21,
+                "Deskripsi": "Laporan warga soal penculikan anak"
+            },
+            {
+                "No": 22,
+                "Deskripsi": "Laporan warga soal penipuan pasar"
+            },
+            {
+                "No": 23,
+                "Deskripsi": "Laporan warga soal provokasi demo"
+            },
+            {
+                "No": 24,
+                "Deskripsi": "Laporan warga soal orang asing mencurigakan"
+            },
+            {
+                "No": 25,
+                "Deskripsi": "Laporan warga soal hewan buas masuk desa"
+            }
+        ]
+    },
+    {
+        "Kategori": "Data Eksternal & Intelijen Sekutu",
+        "Data": [
+            {
+                "No": 1,
+                "Deskripsi": "Data ancaman bersama dari Sunagakure"
+            },
+            {
+                "No": 2,
+                "Deskripsi": "Data ancaman bersama dari Kirigakure"
+            },
+            {
+                "No": 3,
+                "Deskripsi": "Data ancaman bersama dari Kumogakure"
+            },
+            {
+                "No": 4,
+                "Deskripsi": "Data ancaman bersama dari Iwagakure"
+            },
+            {
+                "No": 5,
+                "Deskripsi": "Pola serangan musuh regional"
+            },
+            {
+                "No": 6,
+                "Deskripsi": "Pola pergerakan kelompok kriminal lintas desa"
+            },
+            {
+                "No": 7,
+                "Deskripsi": "Catatan kriminal internasional"
+            },
+            {
+                "No": 8,
+                "Deskripsi": "Catatan teroris desa musuh"
+            },
+            {
+                "No": 9,
+                "Deskripsi": "Data perjanjian aliansi pertahanan"
+            },
+            {
+                "No": 10,
+                "Deskripsi": "Data latihan militer gabungan"
+            },
+            {
+                "No": 11,
+                "Deskripsi": "Laporan diplomasi desa sekutu"
+            },
+            {
+                "No": 12,
+                "Deskripsi": "Laporan kerjasama ekonomi antar desa"
+            },
+            {
+                "No": 13,
+                "Deskripsi": "Catatan bantuan medis desa sekutu"
+            },
+            {
+                "No": 14,
+                "Deskripsi": "Catatan bantuan logistik desa sekutu"
+            },
+            {
+                "No": 15,
+                "Deskripsi": "Laporan pengintaian gabungan"
+            },
+            {
+                "No": 16,
+                "Deskripsi": "Data pergerakan kelompok Akatsuki lintas desa"
+            },
+            {
+                "No": 17,
+                "Deskripsi": "Data pergerakan Orochimaru"
+            },
+            {
+                "No": 18,
+                "Deskripsi": "Data pergerakan Zetsu hitam"
+            },
+            {
+                "No": 19,
+                "Deskripsi": "Catatan pertukaran intelijen tahunan"
+            },
+            {
+                "No": 20,
+                "Deskripsi": "Catatan kerja sama pengawasan perbatasan"
+            },
+            {
+                "No": 21,
+                "Deskripsi": "Laporan perdagangan ilegal antar desa"
+            },
+            {
+                "No": 22,
+                "Deskripsi": "Laporan penyelundupan senjata"
+            },
+            {
+                "No": 23,
+                "Deskripsi": "Data desa netral yang rentan konflik"
+            },
+            {
+                "No": 24,
+                "Deskripsi": "Data kelompok bandit lintas negara"
+            },
+            {
+                "No": 25,
+                "Deskripsi": "Peta geopolitik terbaru dari aliansi"
+            }
+        ]
+    },
+    {
+        "Kategori": "Data Historis & Arsip Lama",
+        "Data": [
+            {
+                "No": 1,
+                "Deskripsi": "Catatan serangan Kyuubi"
+            },
+            {
+                "No": 2,
+                "Deskripsi": "Catatan serangan Orochimaru ke Konoha"
+            },
+            {
+                "No": 3,
+                "Deskripsi": "Catatan invasi desa Suna"
+            },
+            {
+                "No": 4,
+                "Deskripsi": "Catatan serangan Akatsuki ke Konoha"
+            },
+            {
+                "No": 5,
+                "Deskripsi": "Catatan perang ninja besar ketiga"
+            },
+            {
+                "No": 6,
+                "Deskripsi": "Catatan perang ninja besar keempat"
+            },
+            {
+                "No": 7,
+                "Deskripsi": "Arsip evaluasi misi pertahanan gerbang barat"
+            },
+            {
+                "No": 8,
+                "Deskripsi": "Arsip evaluasi misi pertahanan gerbang timur"
+            },
+            {
+                "No": 9,
+                "Deskripsi": "Arsip evaluasi misi pertahanan menara pengawas"
+            },
+            {
+                "No": 10,
+                "Deskripsi": "Catatan strategi Hokage ketiga"
+            },
+            {
+                "No": 11,
+                "Deskripsi": "Catatan strategi Hokage keempat"
+            },
+            {
+                "No": 12,
+                "Deskripsi": "Catatan strategi Hokage kelima"
+            },
+            {
+                "No": 13,
+                "Deskripsi": "Catatan strategi Hokage ketujuh"
+            },
+            {
+                "No": 14,
+                "Deskripsi": "Catatan kekalahan tim Konoha"
+            },
+            {
+                "No": 15,
+                "Deskripsi": "Catatan kemenangan tim Konoha"
+            },
+            {
+                "No": 16,
+                "Deskripsi": "Arsip korban jiwa pertempuran besar"
+            },
+            {
+                "No": 17,
+                "Deskripsi": "Arsip korban luka pertempuran besar"
+            },
+            {
+                "No": 18,
+                "Deskripsi": "Arsip perjanjian damai antar desa"
+            },
+            {
+                "No": 19,
+                "Deskripsi": "Arsip konflik lama dengan Iwagakure"
+            },
+            {
+                "No": 20,
+                "Deskripsi": "Arsip konflik lama dengan Kumogakure"
+            },
+            {
+                "No": 21,
+                "Deskripsi": "Data penggunaan senjata rahasia"
+            },
+            {
+                "No": 22,
+                "Deskripsi": "Data penggunaan jutsu terlarang"
+            },
+            {
+                "No": 23,
+                "Deskripsi": "Catatan keberhasilan misi penyelamatan"
+            },
+            {
+                "No": 24,
+                "Deskripsi": "Catatan kegagalan misi penyelamatan"
+            },
+            {
+                "No": 25,
+                "Deskripsi": "Arsip analisis pola serangan musuh"
+            }
+        ]
+    }
+]
